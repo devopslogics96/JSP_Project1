@@ -4,7 +4,7 @@
     <title>JSP Maven App</title>
 </head>
 <body>
-<h2>Hello from JSP!</h2>
+<h2>Hello Shubham</h2>
 <p>
     Click here to call Servlet:
     <a href="hello">Go to HelloServlet</a>
