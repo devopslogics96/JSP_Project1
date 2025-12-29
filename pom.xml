@@ -10,7 +10,7 @@
     <packaging>war</packaging>
 
     <build>
-        <finalName>jsp-maven-app</finalName>
+        <finalName>app</finalName>
         <plugins>
 
             <plugin>
